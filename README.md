@@ -8,3 +8,4 @@ Put the path of given sensor ".hex" in the sensors given in proteus ".pdsprj" fi
 Open ".ino" file using Arduino IDE and Compile it. Now in PC go to RUN ---Type %temp%---Go to latest created folder and copy .hex file path
 Now double click the arduino in proteus and add the .hex in program path. A vedio is also added named "adding library vedio" for help.
 Now you can run the program.
+"Arduino Code Expanation Vedio.mp4" is also added 
